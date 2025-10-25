@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Payel💗</h1>
-<h3 align="center">An aspiring Software Engineer from India.</h3>
+<h3 align="center">An aspiring Web Developer from India.</h3>
 
 
 - 🔭 I’m currently working on **self projects.**
