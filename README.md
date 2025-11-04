@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **self projects.**
 
-- 🌱 I’m currently learning **Backend Development, AI/ML**
-
 - 😊 I’m looking to collaborate on **web-dev projects.**
 
 - 💬 Ask me about **C, Java, Javascript**
