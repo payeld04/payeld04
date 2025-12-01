@@ -6,7 +6,7 @@
 
 - 😊 I’m looking to collaborate on **web-dev projects.**
 
-- 💬 Ask me about **C, Java, Javascript**
+- 💬 Ask me about **C, Python, Javascript**
 
 - 📫 How to reach me **daspayell346@gmail.com**
 
