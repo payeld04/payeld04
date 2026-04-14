@@ -2,15 +2,15 @@
 <!-- <h3 align="center">An aspiring Web Developer from India.</h3> -->
 
 
-- 🔭 I’m currently working on **self projects.**
+- I’m currently working on **self projects.**
 
-- 😊 I’m looking to collaborate on **web-dev projects.**
+- I’m looking to collaborate on **web-dev projects.**
 
-- 💬 Ask me about **Java, Python, Javascript**
+- Ask me about **Java, Python, Javascript**
 
-- 📫 How to reach me **daspayell346@gmail.com**
+- How to reach me **daspayell346@gmail.com**
 
-- ⚡ Fun fact **I love reading and cooking on my free time🙃**
+- Fun fact **I love reading and cooking on my free time🙃**
 
 
 <h3 align="left">Languages and Tools:</h3>
