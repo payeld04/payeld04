@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **daspayell346@gmail.com**
 
-- ⚡ Fun fact **I love reading on my free time🙃**
+- ⚡ Fun fact **I love reading and cooking on my free time🙃**
 
 
 <h3 align="left">Languages and Tools:</h3>
