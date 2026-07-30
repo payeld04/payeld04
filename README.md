@@ -2,7 +2,7 @@
 <!-- <h3 align="center">An aspiring Web Developer from India.</h3> -->
 
 
-- I’m currently working on **self projects.**
+- I’m currently working on **personal projects.**
 
 - I’m looking to collaborate on **web-dev projects.**
 
