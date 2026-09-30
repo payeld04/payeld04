@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Payel💗</h1>
-<!-- <h3 align="center">An aspiring Web Developer from India.</h3> -->
-
 
 - I’m currently working on **personal projects.**
 
-- I’m looking to collaborate on **web-dev projects.**
+- I’m looking to collaborate on **web-dev projects** and **data-analytics projects**
 
 - Ask me about **Java, Python, Javascript**
 
